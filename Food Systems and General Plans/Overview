@@ -1,9 +1,9 @@
-This project contains the following notebooks:
-1. Prepping Plans
-2. LAC Map
-3. Food Safety and General Plans (the final report/notebook)
+#This project contains the following notebooks:
+#1. Prepping Plans
+#2. LAC Map
+#3. Food Safety and General Plans (the final report/notebook)
 
-The data files are found in the subfolders:
-1. General Plans A
-2. General Plans B
-3. data (urban ag and toxic release data)
+#The data used are found in the subfolders:
+#1. General Plans A (69 plans)
+#2. General Plans B (37 plans)
+#3. data (urban agriculture data for LA COunty and toxic release data for California)
